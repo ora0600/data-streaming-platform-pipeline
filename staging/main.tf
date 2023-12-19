@@ -35,7 +35,7 @@ variable "confluent_cloud_environment_name" {
 }
 
 variable "confluent_cloud_cluster_name" {
-  default = "cmutzlitz-gitops-cluster002"
+  default = "cmutzlitz-gitops-cluster003"
 }
 
 provider "confluent" {
